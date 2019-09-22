@@ -1,0 +1,9 @@
+npm i react-redux
+npm i redux
+npm i react-native-vector-icons
+npm i react-native-router-flux
+npm i lodash
+npm i firebase
+npm i redux-thunk
+npm i native-base
+npm i react-native-communications
